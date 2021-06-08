@@ -1,0 +1,15 @@
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\bin\Debug\netstandard2.0\WeatheriumApp.deps.json
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\bin\Debug\netstandard2.0\WeatheriumApp.dll
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\bin\Debug\netstandard2.0\ref\WeatheriumApp.dll
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\bin\Debug\netstandard2.0\WeatheriumApp.pdb
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\WeatheriumApp.ApiKeys.resources
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\WeatheriumApp.csproj.GenerateResource.cache
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\App.xaml.g.cs
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\Views\CurrentWeatherPage.xaml.g.cs
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\WeatheriumApp.AssemblyInfoInputs.cache
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\WeatheriumApp.AssemblyInfo.cs
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\WeatheriumApp.csproj.CoreCompileInputs.cache
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\XamlC.stamp
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\WeatheriumApp.dll
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\ref\WeatheriumApp.dll
+C:\Users\vandr\Desktop\WeatheriumApp\WeatheriumApp\obj\Debug\netstandard2.0\WeatheriumApp.pdb
