@@ -1,6 +1,6 @@
 #  Weatherium
 
-![GitHub code size in bytes](https://img.shields.io/github/repo-size/v-andrusenko/WeatheriumApp) ![GitHub issues](https://img.shields.io/github/downloads/v-andrusenko/WeatheriumApp/total)
+![GitHub code size in bytes](https://img.shields.io/github/repo-size/catsbyy/WeatheriumApp) ![GitHub issues](https://img.shields.io/github/downloads/catsbyy/WeatheriumApp/total)
 
 The "Weatherium" application shows the weather of your current geolocation and puts random photos of the place in the background.
 
@@ -19,7 +19,7 @@ Some screenshots:
 
 ## Installation
 
-To install the project clone the repository by ``` git clone https://github.com/v-andrusenko/WeatheriumApp.git```
+To install the project clone the repository by ``` git clone https://github.com/catsbyy/WeatheriumApp.git```
 
 ## Usage
 
