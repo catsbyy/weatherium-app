@@ -19,7 +19,7 @@ Some screenshots:
 
 ## Installation
 
-To install the project clone the repository by ``` git clone https://github.com/catsbyy/WeatheriumApp.git```
+To install the project clone the repository by ``` git clone https://github.com/v-andrusenko/WeatheriumApp.git```
 
 ## Usage
 
