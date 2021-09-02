@@ -1,6 +1,6 @@
 #  Weatherium
 
-![GitHub code size in bytes](https://img.shields.io/github/repo-size/v-andrusenko/WeatheriumApp) ![GitHub issues](https://img.shields.io/github/downloads/catsbyy/WeatheriumApp/total)
+![GitHub code size in bytes](https://img.shields.io/github/repo-size/v-andrusenko/WeatheriumApp) ![GitHub issues](https://img.shields.io/github/downloads/v-andrusenko/WeatheriumApp/total)
 
 The "Weatherium" application shows the weather of your current geolocation and puts random photos of the place in the background.
 
